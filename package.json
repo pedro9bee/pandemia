@@ -30,5 +30,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Pandemia is one project that allow to monitoring volunteers in a pandemic event to prevent the contagious in mass by one population. Pandemia is one project in React Native that allows:",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro9bee/pandemia.git"
+  },
+  "keywords": [
+    "pandemia",
+    "coronavirus"
+  ],
+  "author": "Pedro Lemos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro9bee/pandemia/issues"
+  },
+  "homepage": "https://github.com/pedro9bee/pandemia#readme"
 }
